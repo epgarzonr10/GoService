@@ -28,8 +28,9 @@ cd GoHelloWorld
 ```
 ## Results
 <p align="center">
-  <img src="Img/Hellopython.PNG" alt="Hello">
+  <img src="Img/Hellopgo.PNG" alt="Hello">
 </p>
+
 > [!IMPORTANT]
 > When running the Go application, execute the following command in the terminal:
 > 
