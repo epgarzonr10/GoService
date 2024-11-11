@@ -28,7 +28,7 @@ cd GoHelloWorld
 ```
 ## Results
 <p align="center">
-  <img src="Img/Hellopgo.PNG" alt="Hello">
+  <img src="Img/Hellogo.PNG" alt="Hello">
 </p>
 
 > [!IMPORTANT]
